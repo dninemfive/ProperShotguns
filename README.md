@@ -1,4 +1,5 @@
 # Proper Shotguns
+![version](https://img.shields.io/badge/RimWorld-1.2-brightgreen.svg) ![license](https://img.shields.io/badge/License-MIT-brightgreen.svg)
 
 Originally by XeoNovaDan, now maintained by dninemfive.
 
